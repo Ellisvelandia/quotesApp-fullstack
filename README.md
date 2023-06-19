@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 
 First, run the development server:
+![9fc61ba4-7bc4-4bb8-b8e9-dc9c24379097](https://github.com/Ellisvelandia/quotesApp-fullstack/assets/100318892/dcbc7ba1-cf86-486c-ab56-04c700a5013a)
 
 ```bash
 npm run dev
